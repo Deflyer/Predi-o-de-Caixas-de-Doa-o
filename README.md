@@ -14,7 +14,7 @@ Diante desse desafio, exploramos os dados de arrecadações passadas da Campanha
 
 Foi uma experiência enriquecedora, na qual descobrimos não só a importância dos dados, mas também das dificuldades em adquiri-los e processá-los para que eeles tenham uma boa qualidade.
 
-O código desenvolvido pode ser encontrado no colab presente neste git, mas uma explicação mais detalhada também pode ser encontrada abaixo.
+O código desenvolvido pode ser encontrado no [colab](https://colab.research.google.com/drive/1kWES-5fgGNvtLEojaTwLGzmZ_IOnDYGJ?usp=sharing), mas uma explicação mais detalhada também pode ser encontrada abaixo.
 
 ##Modelagem
 
